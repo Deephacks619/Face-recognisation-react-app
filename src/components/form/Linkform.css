@@ -1,0 +1,29 @@
+.link p{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#raj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 80px;
+    background: rgb(0,228,255);
+    background: linear-gradient(335deg, rgba(0,228,255,1) 0%, rgba(111,176,202,1) 33%, rgba(223,66,186,1) 100%);
+    margin-left: 15%;
+}
+.formula{
+    width: 70%;
+}
+.kane{
+    width:70%
+}
+button{
+    width: 30%;
+    height: 40px;
+    outline: none;
+    border: 2px solid grey;
+}

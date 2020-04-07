@@ -1,0 +1,15 @@
+.logo{
+    position: relative;
+    top: -30px;
+}
+.Tilt{
+    margin-left:2%;
+    background: rgb(0,228,255);
+     background: linear-gradient(292deg, rgba(0,228,255,1) 0%, rgba(141,44,226,1) 44%, rgba(48,214,98,1) 100%);
+}
+.Tilt-inner{
+    padding: 30px;
+    font-size:70px;
+    font-family: fantasy;
+
+}
